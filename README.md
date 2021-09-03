@@ -28,7 +28,6 @@
 ## <h1 font-weight="bold"  align="center">I’m hoping to do some good in the world!</h2>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
 ### I love the idea of blockchain and the fact that I can do something with it. 
 ### we can even prevent global warming with blockchain
