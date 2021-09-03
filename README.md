@@ -25,7 +25,7 @@
 </table>
 
 
-## I’m hoping to do some good in the world!
+## <h1 font-weight="bold"  align="center">I’m hoping to do some good in the world!</h2>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
