@@ -17,7 +17,7 @@
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1MkPeBFs2EjuDtMLhTsqY3Fkl9hSTpZe8g&usqp=CAU" width="200"></td>
+    <td><i class="fab fa-unity"></i></td>
     <td><img src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" width="200"></td>
     <td><img src="https://w7.pngwing.com/pngs/554/624/png-transparent-devops-software-developer-computer-software-software-development-logo-mechanical-logo-blue-text-logo.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
