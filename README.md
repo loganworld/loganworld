@@ -17,6 +17,7 @@
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
   </tr>
