@@ -17,9 +17,9 @@
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-    <td><img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="200"></td>
-    <td><img src="https://www.pngitem.com/pimgs/m/453-4531530_devops-and-the-agility-of-a-startup-devops.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1MkPeBFs2EjuDtMLhTsqY3Fkl9hSTpZe8g&usqp=CAU" width="200"></td>
+    <td><img src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" width="200"></td>
+    <td><img src="https://w7.pngwing.com/pngs/554/624/png-transparent-devops-software-developer-computer-software-software-development-logo-mechanical-logo-blue-text-logo.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
   </tr>
   <tr>
@@ -34,19 +34,19 @@
 </table>
 
 <div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/loganworld/loganworld?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/loganworld?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/loganworld?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/loganworld?style=flat-square&color=black&logo=github">
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
+  <img src="https://github-profile-trophy.vercel.app/?username=loganworld&theme=gruvbox" />
 </div>
 
 ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
