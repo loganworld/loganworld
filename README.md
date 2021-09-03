@@ -17,19 +17,8 @@
     <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-    <td><i class="fab fa-unity"></i></td>
-    <td><img src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" width="200"></td>
-    <td><img src="https://w7.pngwing.com/pngs/554/624/png-transparent-devops-software-developer-computer-software-software-development-logo-mechanical-logo-blue-text-logo.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
   </tr>
 </table>
 
