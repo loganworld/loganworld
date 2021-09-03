@@ -20,6 +20,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" width="200"></td>
   </tr>
 </table>
 
