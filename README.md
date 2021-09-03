@@ -33,23 +33,8 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/loganworld/loganworld?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/loganworld?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/loganworld?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/loganworld?style=flat-square&color=black&logo=github">
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=loganworld&theme=gruvbox" />
-</div>
 
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+## I’m hoping to do some good in the world!
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
