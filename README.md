@@ -30,7 +30,8 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### I love the idea of blockchain and the fact that I can do something with it. we can even prevent global warming with blockchain
+### I love the idea of blockchain and the fact that I can do something with it. 
+### we can even prevent global warming with blockchain
 ### If you can dream it, you can do it.
 ### Thanks
 <br />
