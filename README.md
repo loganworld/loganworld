@@ -33,14 +33,13 @@
 ### we can even prevent global warming with blockchain
 ### If you can dream it, you can do it.
 ### Thanks
-<div>
+  
+<br />
 Telegram
- </div>
-### Me : https://t.me/logan_world
+<div>
+### Me : https://t.me/logan_world. 
 ### Team : https://t.me/heurisc_solution
-
-
-
+</div>
 <br />
 
 </div>
