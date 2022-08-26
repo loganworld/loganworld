@@ -26,7 +26,7 @@
  
 ### I love the idea of blockchain and the fact that I can do something with it. 
 ### we can even prevent global warming with blockchain
-### If you can dream it, you can do it.
+### If we can dream it, we can do it.
 ### Thanks
   
 <br />
